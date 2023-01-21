@@ -1,0 +1,89 @@
+
+.Container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #220554;
+}
+
+.Title{
+    font-size: 70px;
+    color: white;
+}
+
+.containerInput{
+    background-color: #2f0c6b;
+    padding: 15px;
+    margin: 34px 0;
+    display: flex;
+    border-radius: 8px;
+    box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
+}
+
+.containerInput input{
+    background-color: transparent;
+    border: 0;
+    font-size: 20px;
+    color: white;
+    outline: none;
+    margin: right;
+}
+
+/*Define a cor do texto fixo na barra de pesquisa*/
+.containerInput input::placeholder{
+    color: #5a3f88;
+}
+
+.buttonSearch{
+    background-color: transparent;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+/*Animação de ZOOM no icone lupa*/
+.buttonSearch:hover{
+    transform: scale(1.2);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #2f0c6b;
+    width: 500px;
+    border-radius: 8px;
+    color: white;
+}
+
+.main h2{
+    margin: 16px 0;
+    font-size: 23px;
+}
+
+.main span{
+    margin-bottom: 9px;
+    font-weight: bold;
+}
+
+/*Define dados de texto e tamanho de containers a partir de mudanças na recursividade*/
+/*@media (max-width: 620px) {
+    .Title{
+        font-size: 50px;
+    }
+
+    .main h2{
+        font-size: 13px;
+    }
+
+    .main{
+        width: 80%;
+        min-height: 250px;
+    }
+}*/
