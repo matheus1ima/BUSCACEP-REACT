@@ -32,7 +32,7 @@ function App() {
   //e.target.value = entregar o valor ao armazenamento no setInput
   return (
     <div className="Container">
-      <h1 className="Title">Buscador CEP</h1>
+      <h1 className="Title">Busca CEP</h1>
 
       <div className="containerInput">
        <input type="text" placeholder="Digite seu CEP..." value={input} onChange={(e) => setInput(e.target.value)}/>
