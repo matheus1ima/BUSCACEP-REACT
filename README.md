@@ -7,4 +7,4 @@ A pesquisa é feita com o auxilio de uma API, e o site exibe as informações de
 
 LINK DO VÍDEO-TUTORIAL: https://www.youtube.com/watch?v=blL8-w1NHr0
 
-LINK DO PROJETO PARA VISUALIZAÇÃO:
+LINK DO PROJETO PARA VISUALIZAÇÃO: https://genuine-liger-5bc40d.netlify.app/
