@@ -9,4 +9,4 @@ LINK DO VÍDEO-TUTORIAL: https://www.youtube.com/watch?v=blL8-w1NHr0
 
 LINK DA API UTILIZADA: https://viacep.com.br/
 
-LINK DO PROJETO PARA VISUALIZAÇÃO: https://genuine-liger-5bc40d.netlify.app/
+LINK DO PROJETO EM FUCIONAMENTO PARA VISUALIZAÇÃO: https://genuine-liger-5bc40d.netlify.app/
